@@ -45,3 +45,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prasadsgh&show_icons=true&locale=en" alt="prasadsgh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prasadsgh&" alt="prasadsgh" /></p>
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/prasadsGh/github-readme-activity-graph"><img alt="Prasad Patil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prasadsGh&bg_color=FFFFFF&color=454545&line=5BCDEC&point=54545&hide_border=trUE" /></a>
+
+<br/>
+<br/>
