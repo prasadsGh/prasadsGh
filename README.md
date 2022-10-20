@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, I'm Prasad Patil</h1>
 <h3 align="center">A passionate Competitive Programmer and front-end developer from India</h3>
-<img align="right" alt="Coding is Fun" width="400" src="https://miro.medium.com/max/828/0*C-cPP9D2MIyeexAT.gif">
+<img align="right" alt="Coding is Fun" width="330" src="https://miro.medium.com/max/828/0*C-cPP9D2MIyeexAT.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadsgh&label=Profile%20views&color=0e75b6&style=flat" alt="prasadsgh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prasadsgh" alt="prasadsgh" /></a> </p>
