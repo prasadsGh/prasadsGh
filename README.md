@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Prasad Patil</h1>
-<h3 align="center">A passionate Competitive Programmer and front-end developer from India</h3>
+<h3 align="center">Competitive Programmer | Open Source | Linux | Web dev</h3>
 <img align="right" alt="Coding is Fun" width="180" src="https://miro.medium.com/max/828/0*C-cPP9D2MIyeexAT.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasadsgh&label=Profile%20views&color=0e75b6&style=flat" alt="prasadsgh" /> </p>
 
