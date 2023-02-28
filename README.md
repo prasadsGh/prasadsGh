@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **prasadpatil2309@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/u/0/folders/1FzqJV2r2vPqjOhULgxMu_VkQP_ugpeO1)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mAiQ8cB83X6AgqjUkiaHJlf52shjIJk9/view?usp=sharing)
 
 - ⚡ Fun fact **I do competitive programming and open source both, Because I love both! Yahh People like me exist XD**
 
