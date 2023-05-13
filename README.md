@@ -7,6 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/prasad_2301" target="blank"><img src="https://img.shields.io/twitter/follow/prasad_2301?logo=twitter&style=for-the-badge" alt="prasad_2301" /></a> </p>
 
+## 🐦 Tweets
+[![](https://gtce.itsvg.in/api?username=prasad_2301)](https://twitter.com/prasad_2301)
+
 - 🌱 I’m currently learning **Algorithms,Django,Data Structures**
 
 - 📝 I regularly write articles on [https://dev.to/prasad_2301](https://dev.to/prasad_2301)
